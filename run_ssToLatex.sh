@@ -7,7 +7,7 @@
 export PATH="/Library/Frameworks/Python.framework/Versions/3.13/bin:/usr/local/bin:/usr/bin:/bin:/opt/homebrew/bin:$PATH"
 
 # Set the Google API key - REPLACE WITH YOUR ACTUAL API KEY
-export GOOGLE_API_KEY="AIzaSyBJLlxDmEe94RulqYq-nZTyhPdXE2PSONM"
+export GOOGLE_API_KEY="Your API key"
 
 # Change to the script directory
 cd "/Users/narendraaironi/projects/ai"
